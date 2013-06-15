@@ -16,7 +16,7 @@ I'm using the fancybox with the small change of limiting the default count of 20
 
 You'll need your Client id and Access code for this to work but you can use a third party to access them.
 
-[For example]: http://jelled.com/instagram/access-token
+[This will give you what you need](http://jelled.com/instagram/access-token)
 
 
 ### Here's the code
