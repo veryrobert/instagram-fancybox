@@ -6,9 +6,9 @@ I was on the look out for a simple instagram feed but couldn't find anything tha
 
  [Jquery instagram](http://potomak.github.io/jquery-instagram/)
 
- and 
-
 [Instagram API + Fancybox Simplified](http://www.blueprintinteractive.com/blog/how-instagram-api-fancybox-simplified)
+
+[Spectragram – this seems really good actually] (http://lab.adrianquevedo.com/jquery-spectragram/)
 
 I'm using the fancybox with the small change of limiting the default count of 20
 
